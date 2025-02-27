@@ -37,9 +37,4 @@ The **Shadow Syndicate**, led by the **Eclipse Lord**, is on the brink of openin
 - Unity (C#)  
 - 2D Sprite Rendering & Animations  
 - Physics & Collision Detection  
-- Object Pooling Optimization  
-
-## 📌 Future Enhancements  
-- Additional enemy types and attack patterns.  
-- More power-ups and upgrade mechanics.  
-- Expanded storyline with cutscenes and dialogue.
+- Object Pooling Optimization
