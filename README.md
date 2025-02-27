@@ -3,6 +3,7 @@
 **Galactic Runner** is a fast-paced **2D space shooter** built in Unity, where players take on the role of **The Galactic Runner**, the last hope of the Lumarians. Engage in an interstellar battle against the **Shadow Syndicate**, led by the formidable **Eclipse Lord**, to prevent them from opening a portal to the chaotic Abyss and plunging the galaxy into darkness.  
 
 ## 🛸 Gameplay  
+![Gameplay Screenshot](Galactic%20Runner/images/images1.png)
 - Control your **jet fighter** with `←` and `→` arrow keys to navigate.  
 - Use `Spacebar` to **fire lasers** and destroy enemy jets.  
 - Progress through **4 action-packed levels**, each set in different celestial star systems.  
@@ -16,6 +17,7 @@
 - **Fluid sprite animations** and visually immersive backgrounds.  
 
 ## 🛠️ Development Highlights  
+![Development Screenshot](Galactic%20Runner/images/images2.png)  
 - Implemented **collision detection** for enemy/player interactions.  
 - Designed **prefabs** for efficient enemy spawning and projectile management.  
 - Integrated **custom enemy movement behaviors** and attack patterns.  
@@ -40,4 +42,4 @@ The **Shadow Syndicate**, led by the **Eclipse Lord**, is on the brink of openin
 ## 📌 Future Enhancements  
 - Additional enemy types and attack patterns.  
 - More power-ups and upgrade mechanics.  
-- Expanded storyline with cutscenes and dialogue.  
+- Expanded storyline with cutscenes and dialogue.
