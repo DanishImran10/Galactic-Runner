@@ -49,4 +49,4 @@ The **Shadow Syndicate**, led by the **Eclipse Lord**, is on the brink of openin
 - Object Pooling Optimization  
 
 ## 💾 Download  
-Download the **Windows Build** here: [Galactic Runner Build](Galactic%20Runner/builds/Windows/GalacticRunner.zip)
+Download the **Windows Build** here: [Galactic Runner Build](Galactic%20Runner/builds/Windows%20Build)
