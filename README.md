@@ -9,12 +9,21 @@
 - Progress through **4 action-packed levels**, each set in different celestial star systems.  
 - Face escalating challenges, enemy formations, and **a final boss battle** against the Eclipse Lord.  
 
+🎥 Watch the Gameplay Demo: [Galactic Runner Gameplay](Galactic%20Runner/Gameplay/Galactic%20Runner.mp4)
+
 ## 🌌 Features  
 - **Dynamic enemy AI** with randomized shooting and movement patterns.  
 - **Unique level designs** showcasing different star systems.  
 - **Collectible power-ups** to enhance fire rate and increase survival chances.  
 - **Score tracking system** for competitive gameplay.  
 - **Fluid sprite animations** and visually immersive backgrounds.  
+
+## 🗺️ Level Design  
+Each level is set in a different **star system**, progressively increasing in difficulty:  
+1. **Nebula Outskirts** – Introduction to enemy waves.  
+2. **Asteroid Fields** – Navigating obstacles while fighting enemies.  
+3. **Solar Convergence** – Intense enemy formations and power-ups.  
+4. **Abyssal Gateway** – Final battle against the **Eclipse Lord**.
 
 ## 🛠️ Development Highlights  
 ![Development Screenshot](Galactic%20Runner/images/images2.png)  
@@ -37,4 +46,7 @@ The **Shadow Syndicate**, led by the **Eclipse Lord**, is on the brink of openin
 - Unity (C#)  
 - 2D Sprite Rendering & Animations  
 - Physics & Collision Detection  
-- Object Pooling Optimization
+- Object Pooling Optimization  
+
+## 💾 Download  
+Download the **Windows Build** here: [Galactic Runner Build](Galactic%20Runner/builds/Windows/GalacticRunner.zip)
